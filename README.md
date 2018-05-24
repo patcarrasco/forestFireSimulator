@@ -1,4 +1,7 @@
-Note: I thought it would be interesting to test how the density of a forest effects the spread of forest fire.
+#### File list:
+- Forest fire simulation model (.R)
+- Data obtained from model (.csv)
+- Plots created from obtained data (HTML, ipynb)
 
 # Forest Fire Simulation
 
