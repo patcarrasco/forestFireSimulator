@@ -10,6 +10,3 @@ Note: I thought it would be interesting to test how the density of a forest effe
 - Trees burn for one timestep
 - A live tree directly in contact with a burning tree will catch fire
 - 100 iterations for each tested parameter
-
-## 2. Analysis
-
