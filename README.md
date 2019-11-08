@@ -3,7 +3,7 @@
 - Data obtained from model (.csv)
 - Plots created from obtained data (HTML, ipynb)
 
-# Forest Fire Simulation
+# Forest Fire Simulation Using Percolation
 
 ## Model Structure and Parameters
 - 100 x 100 lattice (2-Dimensional)
